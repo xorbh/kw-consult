@@ -15,3 +15,4 @@ We configure, deploy, and monitor AI assistants tailored to specific roles, work
 
 - [ai-services-company.md](ai-services-company.md) — our thesis and service model
 - [ai-management-layer.md](ai-management-layer.md) — our core product: interaction tracing, hardened agent VMs, and agent/skill administration
+- [ai-training-bootcamp.md](ai-training-bootcamp.md) — our go-to-market wedge: hands-on training combined with AI-powered discovery
