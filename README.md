@@ -19,3 +19,4 @@ We configure, deploy, and monitor AI assistants tailored to specific roles, work
 - [core-automation-layer.md](core-automation-layer.md) — infrastructure foundation: PostgreSQL, n8n, Redis, and agent runtime in a hardened VM
 - [technical-strategy.md](technical-strategy.md) — Anthropic-first: why we build exclusively on Claude
 - [cost-optimisation.md](cost-optimisation.md) — token spend analysis, prompt efficiency, model tier routing, and continuous cost management
+- [system-transition.md](system-transition.md) — replacing expensive legacy software with AI agents and cheaper alternatives
