@@ -95,8 +95,8 @@ The net saving funds our managed service fee and still leaves the client ahead. 
 
 System transition is where everything we've built comes together:
 
-- **[AI Training Bootcamp](ai-training-bootcamp.md)** surfaces the opportunities through direct engagement with teams
+- **[AI Training Bootcamp](training-bootcamp.md)** surfaces the opportunities through direct engagement with teams
 - **[Core Automation Layer](core-automation-layer.md)** provides the replacement infrastructure — PostgreSQL, n8n, Redis, and agent runtime
-- **[AI Management Layer](ai-management-layer.md)** governs the new agents and provides the trace data to prove they're working
+- **[AI Management Layer](management-layer.md)** governs the new agents and provides the trace data to prove they're working
 - **[Cost Optimisation](cost-optimisation.md)** ensures the replacement agents run efficiently so the savings stick
 - **[Technical Strategy](technical-strategy.md)** means we build these replacements on a platform we know deeply, delivering reliable results

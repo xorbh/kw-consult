@@ -13,9 +13,9 @@ We configure, deploy, and monitor AI assistants tailored to specific roles, work
 
 ## Learn More
 
-- [ai-services-company.md](ai-services-company.md) — our thesis and service model
-- [ai-management-layer.md](ai-management-layer.md) — our core product: interaction tracing, hardened agent VMs, and agent/skill administration
-- [ai-training-bootcamp.md](ai-training-bootcamp.md) — our go-to-market wedge: hands-on training combined with AI-powered discovery
+- [services-company.md](services-company.md) — our thesis and service model
+- [management-layer.md](management-layer.md) — our core product: interaction tracing, hardened agent VMs, and agent/skill administration
+- [training-bootcamp.md](training-bootcamp.md) — our go-to-market wedge: hands-on training combined with AI-powered discovery
 - [core-automation-layer.md](core-automation-layer.md) — infrastructure foundation: PostgreSQL, n8n, Redis, and agent runtime in a hardened VM
 - [technical-strategy.md](technical-strategy.md) — Anthropic-first: why we build exclusively on Claude
 - [cost-optimisation.md](cost-optimisation.md) — token spend analysis, prompt efficiency, model tier routing, and continuous cost management

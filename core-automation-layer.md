@@ -125,6 +125,6 @@ The entire stack is containerised and configuration-managed, enabling:
 
 The Core Automation Layer is the execution foundation. It works in concert with:
 
-- **[AI Management Layer](ai-management-layer.md)**: Provides the administrative, tracing, and governance capabilities that sit above the automation layer
-- **[AI Training Bootcamp](ai-training-bootcamp.md)**: Discovery insights from bootcamps inform what data pipelines, integrations, and agent capabilities get configured in the automation layer
-- **[AI Services Model](ai-services-company.md)**: The automation layer is what makes the service model deliverable — it is the infrastructure that turns agent designs into running systems
+- **[AI Management Layer](management-layer.md)**: Provides the administrative, tracing, and governance capabilities that sit above the automation layer
+- **[AI Training Bootcamp](training-bootcamp.md)**: Discovery insights from bootcamps inform what data pipelines, integrations, and agent capabilities get configured in the automation layer
+- **[AI Services Model](services-company.md)**: The automation layer is what makes the service model deliverable — it is the infrastructure that turns agent designs into running systems
